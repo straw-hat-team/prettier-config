@@ -9,7 +9,7 @@ Base Prettier configuration.
 Install the dependency in your package.
 
 ```sh
-yarn add -D @straw-hat/prettier-config prettier
+yarn add -D @straw-hat/prettier-config
 ```
 
 Check our [Recommended Prettier Setup](./docs/recommended-setup.md)
