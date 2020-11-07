@@ -2,3 +2,12 @@
 # yarn lockfile v1
 
 
+"@straw-hat/prettier-config@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@straw-hat/prettier-config/-/prettier-config-1.1.0.tgz#aa097dd943c8a61d94ea4007215a30629fc2b44b"
+  integrity sha512-kcumh7jzimjmsNle2PX/jhsRWO47q+gic/CX68KTndOQ5QuxAXJA2JQQkBSEKNfZr4v9W1U7xHX+xBLf+Vh28Q==
+
+prettier@^1.18.2:
+  version "1.19.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
+  integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==

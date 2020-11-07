@@ -1,6 +1,6 @@
 {
   "name": "@straw-hat/prettier-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Prettier configuration",
   "author": "Straw Hat Team <opensource@straw-hat-llc.com>",
   "repository": {
@@ -18,11 +18,16 @@
   },
   "type": "commonjs",
   "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "files": [
     "lib",
     "README.md"
   ],
   "peerDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "devDependencies": {
+    "@straw-hat/prettier-config": "^1.1.0",
     "prettier": "^1.18.2"
   }
 }
