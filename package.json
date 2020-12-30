@@ -1,6 +1,6 @@
 {
   "name": "@straw-hat/prettier-config",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "Prettier configuration",
   "author": "Straw Hat Team <opensource@straw-hat-llc.com>",
   "repository": {
@@ -24,10 +24,10 @@
     "README.md"
   ],
   "peerDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.2.1"
   },
   "devDependencies": {
-    "@straw-hat/prettier-config": "^1.1.0",
-    "prettier": "^1.18.2"
+    "@straw-hat/prettier-config": "^1.2.0",
+    "prettier": "^2.2.1"
   }
 }

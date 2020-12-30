@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@straw-hat/prettier-config@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@straw-hat/prettier-config/-/prettier-config-1.1.0.tgz#aa097dd943c8a61d94ea4007215a30629fc2b44b"
-  integrity sha512-kcumh7jzimjmsNle2PX/jhsRWO47q+gic/CX68KTndOQ5QuxAXJA2JQQkBSEKNfZr4v9W1U7xHX+xBLf+Vh28Q==
+"@straw-hat/prettier-config@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@straw-hat/prettier-config/-/prettier-config-1.2.0.tgz#48322ea755f6bb6d0867851678b676b322aca70c"
+  integrity sha512-gHMKJr0hg0O93OrPcW60C3TS5KSpHpC/rccPFHEKVEcaq8sLkb2OtpeCEu/+E42nXXWu3Oa4ezDr9mVX51z8cQ==
 
-prettier@^1.18.2:
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
-  integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
+prettier@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.2.1.tgz#795a1a78dd52f073da0cd42b21f9c91381923ff5"
+  integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
